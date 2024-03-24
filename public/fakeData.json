@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "r_name": " Tasty teriyaki Salmon and orange",
+    "description": "Deliciously glazed salmon fillets cooked to perfection with a sweet and savory teriyaki sauce.",
+    "ingredients": ["4 salmon fillets", "120ml teriyaki sauce", "50g brown sugar", "1 tbsp sesame seeds"],
+    "p_time": "30 min",
+    "calories": "350 calories",
+    "image": "https://i.ibb.co/ySsrmGp/f5.jpg"
+  },
+  {
+    "id": 2,
+    "r_name": "Fresh pasta with hearty Bolognese",
+    "description": "A healthy and colorful salad featuring quinoa, mixed vegetables, and a zesty vinaigrette dressing.",
+    "ingredients": ["250g quinoa", "150g cherry tomatoes", "100g cucumber", "50g feta cheese"],
+    "p_time": "15 min",
+    "calories": "320 calories",
+    "image": "https://i.ibb.co/GvVdpV6/pasta.jpg"
+  },
+  {
+    "id": 3,
+    "r_name": "Exploding burger with vegetables ",
+    "description": "A fragrant and flavorful curry featuring tender chicken pieces, ripe mangoes, and aromatic spices.",
+    "ingredients": ["400g chicken thighs", "2 ripe mangoes", "200ml coconut milk", "100g curry paste"],
+    "p_time": "40 min",
+    "calories": "380 calories",
+    "image": "https://i.ibb.co/z4FhtSB/barger.jpg"
+  },
+  {
+    "id": 4,
+    "r_name": "Chicken Aifredo with hot pasta",
+    "description": "Creamy and savory pasta dish with tender chicken pieces, tossed in a rich Alfredo sauce.",
+    "ingredients": ["400g chicken breast", "300g fettuccine pasta", "200ml heavy cream", "100g grated parmesan cheese"],
+    "p_time": "35 min",
+    "calories": "520 calories",
+    "image": "https://i.ibb.co/h8qzN4H/as.jpg"
+  },
+ 
+  {
+    "id": 5,
+    "r_name": "Tasty indian sweets arrangement",
+    "description": "Colorful and nutritious stir-fried vegetables in a savory soy sauce, served over steamed rice.",
+    "ingredients": ["200g broccoli", "150g bell peppers", "100g carrots", "100g snap peas"],
+    "p_time": "20 min",
+    "calories": "280 calories",
+    "image": "https://i.ibb.co/RNZVbrn/f6.jpg"
+  },
+  
+  
+  {
+    "id": 6,
+    "r_name": " Crispy fried chicken with salad ",
+    "description": "Juicy beef patties topped with melted cheese, lettuce, tomato, and pickles, served in a soft bun.",
+    "ingredients": ["500g ground beef", "4 hamburger buns", "100g cheddar cheese", "50g lettuce"],
+    "p_time": "25 min",
+    "calories": "480 calories",
+    "image": "https://i.ibb.co/TMymx6s/f4.jpg"
+  }
+  
+]

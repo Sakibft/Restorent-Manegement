@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.lexend{
+  font-family: "Lexend Zetta", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
